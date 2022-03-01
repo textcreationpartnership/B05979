@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Strafford, his speech in the Tower to the Lords, before hee went to execution. May the 12. day. 1641.</title>
+            <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05979</idno>
+            <idno type="STC">Wing S5793</idno>
+            <idno type="STC">ESTC R184662</idno>
+            <idno type="EEBO-CITATION">52614974</idno>
+            <idno type="OCLC">ocm 52614974</idno>
+            <idno type="VID">176207</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176207)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Strafford, his speech in the Tower to the Lords, before hee went to execution. May the 12. day. 1641.</title>
+                  <author>Strafford, Thomas Wentworth, Earl of, 1593-1641.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>R. &amp; J. Bryson],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Printed 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dying declarations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176207:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>
+               <hi>THE</hi> EARLE <hi>OF</hi> STRAFFORD, His Speech in the Tower <hi>to the Lords, before hee went to execution.</hi> May the 12. day. 1641.</p>
+            <p>Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:176207:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="3" facs="tcp:176207:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>His Speech in the <hi>Tower</hi> to the Lords, <hi>before hee went to Execution.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight honourable, and the reſt, you are now come to convey me to my death: I am willing to die, which is a thing no more than all our Predeceſ<g ref="char:EOLhyphen"/>ſours have done, and a debt that our Poſteritie muſt in their due time diſcharge, which ſince it can be no way avoyded, it ought the leſſe to be feared; for that which is common to all, ought not to be intollerable to any: It is the law of nature, the tribute of the fleſh, a remedy from all worldly cares and troubles; and to the truly peni<g ref="char:EOLhyphen"/>tent, a perfect path to bleſſedneſſe: And there is but one death, though ſeverall wayes unto it: Mine is not naturall, but enforced by the Law &amp; Juſtice: It hath been ſaid that the Lawes vex only the meaner ſort of people, but the mighty are able to withſtand them: It is not ſo with me, for to the Law I ſubmit my ſelfe, and confeſſe that I receive nothing but Juſtice: For he that politikly intendeth good to a Com<g ref="char:EOLhyphen"/>mon-wealth, may be called a juſt man, but he that practiſeth either for his owne profit, or any other ſiniſter ends, may bee well tearmed a Delinquent perſon; Neither is delay in puniſhment any priviledge for pardon. And moreover, I ingenuouſly confeſſe with <hi>Cicero,</hi> that the death of the bad, is the ſafety of the good that be alive.</p>
+            <p>Let no man truſt either in the favour of his Prince, the friendſhip and conſanguinity of his Peeres, much leſſe in his
+<pb n="4" facs="tcp:176207:3"/>
+               <!-- PDF PAGE 75 -->owne wiſedome &amp; knowledge, of which I ingenuouſly con<g ref="char:EOLhyphen"/>feſſe I have been too confident. Kings, as they are men before God, ſo they are gods before men, and I may ſay with a great man once in this Kingdome, <hi>had I ſtrived to obey my God as faithfully, as I ſought to honour my King diligently, I had ſtood, and not fallen.</hi> Moſt happie and fortunate is that Prince, who is as much for his juſtice feared, as for his goodneſſe belo<g ref="char:EOLhyphen"/>ved: For the greater that Princes are in power above other, the more they ought in vertue to excell other; and ſuch is the Royall Soveraigne whom I late ſerved.</p>
+            <p>For my Peeres, the correſpondence that I had with them during my proſperitie, was to me verie delightfull and plea<g ref="char:EOLhyphen"/>ſing, and here they have commiſerated my ruine, I have plen<g ref="char:EOLhyphen"/>tifully found, who (for the moſt generous of them) I may boldly ſay, though they have deteſted the fact, yet they have pitied the perſon delinquent; The firſt in their loyalty, the laſt in their charity: Ingenuouſly confeſſing, that never any ſubject, or Peere of my ranke had ever that helpe of Coun<g ref="char:EOLhyphen"/>ſell, that benefit of time, or a more free and legall tryall than I have had: In the like whereof, none of my predeceſ<g ref="char:EOLhyphen"/>ſours hath had ſo much favour from his Prince, ſo much ſuf<g ref="char:EOLhyphen"/>ferance from the people; in which I comprehend the under<g ref="char:EOLhyphen"/>ſtanding Commons, not the many headed monſter, Multi<g ref="char:EOLhyphen"/>tude; But I have offended<g ref="char:punc">▪</g> am ſentenced, &amp; muſt now ſuffer.</p>
+            <p>And for my too much confidence in my ſuppoſed wiſe<g ref="char:EOLhyphen"/>dome and knowledge, therein have beene the moſt deceived: For hee is wiſe to himſelfe that knowes by others faults to correct his own offences: To be truely wiſe is to be Secreta<g ref="char:EOLhyphen"/>ries to ourſelves, For it is meere folly to reveale our inti<g ref="char:EOLhyphen"/>mate thoughts to ſtrangers: Wiſedome is the moſt precious Gem with which the mind can be adorned, and learning the moſt famous thing for which a man ought to bee eſteemed, and true wiſedome teacheth us to doe well, as to ſpeake
+<pb n="5" facs="tcp:176207:3"/>
+               <!-- PDF PAGE 75 -->well: In the firſt I have failed, <hi>for the wiſedome of man is fooliſh<g ref="char:EOLhyphen"/>neſse with God.</hi>
+            </p>
+            <p>For knowledge, it is a thing indifferent both to good and evil, but the beſt knowledge is for a man, to know himſelfe; hee that doth ſo, ſhall eſteeme of himſelfe but little, for hee conſidereth from whence he came, and whereto he muſt go, he regardeth not the vaine pleaſures of this life, hee exalteth God, and ſtrives to live in his fear; But he that knoweth not himſelfe, is wilfull in his owne wayes, unprofitable in his life, infortunate in his death, and ſo am I. But the reaſon why I ſought to attaine unto it, was this: I have read that he that knoweth not that which hee ought to know, is a bruit beaſt amongſt men: Hee that knoweth more than he ought to know, is a man amongſt beaſts: But he that knoweth all that may be known, is a God amongſt men. To this I much aſpired, in this I much failed; <hi>Vanitie of vanities, all is but vanitie.</hi>
+            </p>
+            <p>I have heard the people clamour and cry out, ſaying, That through my occaſion the times are bad, I wiſh that when I am dead they may prove better: Moſt true it is, that there is at this time a great ſtorme impending (God in his mercie avert it.) And ſince it is my particular lot, like <hi>Ionah,</hi> to be caſt into the ſea, I ſhall thinke my life well ſpent, to appeaſe Gods wrath, and ſatisfie the peoples malice.</p>
+            <p>O what is eloquence more than aire? faſhioned with an articulate and diſtinct ſound, when it is a ſpeciall vertue to ſpeake little and well, and ſilence is oft the beſt oratorie; For fooles in their dumbneſſe may bee accounted wiſe: It hath power to make a good matter ſeeme bad, and a bad cauſe ap<g ref="char:EOLhyphen"/>peare good: But mine was to mee unprofitable, and like the Cypreſſe trees, which are great and tall, but altogether without fruit.</p>
+            <p>What is honour? but the firſt ſtep to diſquietneſſe, and
+<pb n="6" facs="tcp:176207:4"/>
+               <!-- PDF PAGE 76 -->power is ſtill waited on by envie, neither hath it any privi<g ref="char:EOLhyphen"/>ledge againſt in famie. It is held to be the chiefe part of ho<g ref="char:EOLhyphen"/>nour, for a man to joyne to his office and calling, curtiſie, and affabilitie, commiſeration, and pitie: For thereby he draweth to him with a kind of compulſion, the hearts of the multi<g ref="char:EOLhyphen"/>tude. But that was the leaſt part of my ſtudie, which now makes mee call to minde, that the greater the perſons are in authority, the ſooner they are catcht in any delinquencie, and the ſmalleſt crimes are thought to be capitall, the ſmal<g ref="char:EOLhyphen"/>leſt ſpot ſeemes great in the fineſt linnen, and the leaſt flaw is ſooneſt found in the richeſt Diamond. But high and noble ſpirits finding themſelves wounded, grieve not ſo much at their owne paine and perplexitie, as at the deriſion and ſcofs of their enemy: But for mine own part, though I might have manie in my life, I hope to finde none in my death.</p>
+            <p>Amongſt other things which pollute and contaminate the mindes of great ſpirits, there is none more hainous than am<g ref="char:EOLhyphen"/>bition, which is ſeldome unaccompanied with Avarice: Such, to poſſeſſe their ends, care not to violate the Lawes of Religion, and Reaſon, and to breake the bonds of Mode<g ref="char:EOLhyphen"/>ſtie and equitie, with the neareſt tyes of Conſanguinitie, and Amitie; Of which as I have beene guiltie, ſo I crave at Gods hands forgiveneſſe. It is a maxime in Philoſophy, that am<g ref="char:EOLhyphen"/>bitious men can never bee good Counſellours to Princes; The deſire of having more is common to great Lords, and a deſire of Rule, a great cauſe of their ruine.</p>
+            <p>My Lords, I am now the hopeleſſe Preſident, may I bee to you all an happy example: For ambition devoureth gold, and drinketh bloud, and climbeth ſo high by other mens heads, that at the length in the fall, it breaketh its owne neck: therefore it is better to live in humble content, than in high care and trouble: For more precious is want with honeſtie, than wealth with infamy: For what are wee but meere va<g ref="char:EOLhyphen"/>pours,
+<pb n="7" facs="tcp:176207:4"/>
+               <!-- PDF PAGE 76 -->which in a ſerene element aſcend high, and upon an inſtant, like ſmoak, vaniſh into nothing: Or like ſhips with<g ref="char:EOLhyphen"/>out Pilots, toſt up &amp; down upon the ſeas by contrary winds, and tempeſts. But the good husbandman thinkes better of thoſe eares of corne, which bow downe, and grow crooked, than thoſe which are ſtreight and upright, becauſe he is aſſu<g ref="char:EOLhyphen"/>red to finde more ſtore of grain in the one, than in the other. This all men know, yet of this, how few make uſe: The de<g ref="char:EOLhyphen"/>fect whereof muſt bee now my paine: May my ſuffering prove to others profit.</p>
+            <p>For what hath now the favour of my Prince, the familia<g ref="char:EOLhyphen"/>ritie with my Peeres, the volubility of a tongue, the ſtrength of my memorie, my learning, or knowledge, my honours, or offices, my power, or potencie, my riches, and treaſure, (all theſe the eſpeciall gifts, both of Nature, and Fortune) what have all theſe profited mee? Bleſſings I acknowledge, though by God beſtowed upon man; yet not all of them to<g ref="char:EOLhyphen"/>gether upon many: Yet by the divine providence, the moſt of them met in me: Of which had I made happie uſe, I might ſtill have flouriſht, who now am forc'd immaturely to fall.</p>
+            <p>I now could wiſh, (but that <hi>utinam</hi> is too late) that God with his outward goodneſſe towards me, had ſo com<g ref="char:EOLhyphen"/>mixed his inward grace, that I had chuſed the <hi>medium</hi> path, neither inclining to the right hand, nor deviating to the left; but like <hi>Icarus</hi> with my waxen wings, fearing by too low a flight to moyſten them with the waves: I ſoared too high, and too neare the Sun, by which they being melted; I ay<g ref="char:EOLhyphen"/>ming at the higheſt, am precipitated to the loweſt: and am made a wretched prey to the waters: But I who before built my houſe upon the ſand, have now ſetled my hopes upon the Rocke my Saviour: By whoſe only merites my ſole truſt is, that whatſoever becomes of my bodie, yet in this bo<g ref="char:EOLhyphen"/>ſome my ſoule may bee Sanctuaried.</p>
+            <pb n="8" facs="tcp:176207:5"/>
+            <!-- PDF PAGE 77 -->
+            <p>
+               <hi>Nimrod</hi> would have built a Tower to reach up to heaven, and cal'd it <hi>Babel;</hi> but God turned it to the confuſion of Lan<g ref="char:EOLhyphen"/>guages, and diſſipation of the people, <hi>Pharaoh</hi> kept the chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> in bondage, and after having fred them, in his great pride would have made them his prey; but God gave them a drie and miraculous paſſage, and <hi>Pharaoh</hi> and his hoaſt a watrie Sepulcher. <hi>Belſhazzer</hi> feaſted his Princes and Proſtitutes, who drunke healths in the veſſels taken from the Temple, but the hand of God writ upon the wall, <hi>Mene, Te<g ref="char:EOLhyphen"/>kel, Phoras,</hi> and that night before morning was both his King<g ref="char:EOLhyphen"/>dome and life taken from him: Thus God lets men goe on a great while in their owne devices, but in the end it proved their own ruine &amp; deſtruction, never ſuffering them to effect their deſired purpoſes: therefore let none preſume upon his power, glory in his greatneſſe, or be too confident in his riches: Theſe things, were written for our Inſtruction, of which the living may make uſe, the dying cannot; but wit and unfruitfull wiſedome are the next nieghbours to folly.</p>
+            <p>There can bee no greater vanitie in the world, than to eſteeme the world, which regardeth no man; and to make ſlight account of God who greatly reſpecteth all men; and there can be no greater folly in man, than by much travell to increaſe his goods, and pamper his body, and in the Interim with vaine delights and pleaſures, to loſe his ſoul, It is a great folly in any man to attempt a bad beginning, in hope of a good ending; and to make that proper to one, which was before common to all, is meere indiſcretion, and the begin<g ref="char:EOLhyphen"/>ning of diſcord, which I poſitively wiſh may end in this my puniſhment.</p>
+            <p>O how ſmall a proportion of earth will containe my bo<g ref="char:EOLhyphen"/>dy, when my high minde could not bee confined within the ſpacious compaſſe of two Kingdomes? But my houre draweth on, and I conclude with the Pſalmiſt, not aiming at
+<pb n="9" facs="tcp:176207:5"/>
+               <!-- PDF PAGE 77 -->any one man in particular, but ſpeaking for all in generall: <hi>How long will you Iudges be corrupted? how long will ye ceaſe to give true Iudgement? &amp;c, Bleſſed is the man that doeth not walk in the Councell of the wicked, nor ſtand in the way of ſinners, nor ſit in the ſeat of the ſcornefull, therefore they ſhall not stand in the Iudgement, nor ſinners in the aſſembly of the righteous, &amp;c.</hi>
+            </p>
+            <p>About the houre of 12. a Clocke the aforeſaid Lord of <hi>Strafford</hi> was conveyed to the Scaffold on Towre-Hill, where was a court of Guard made by the ſeverall Compani<g ref="char:EOLhyphen"/>es of Souldiers of the City of <hi>London,</hi> and the Hamlets of the Tower on each ſide as he paſſed to the Scaffold: before mar<g ref="char:EOLhyphen"/>ched the Marſhals men to make way, then the Sheriffes of Londons Officers with their Halberds; after them the Kings Guard, or warders of the Tower: Next came one of his Gentlemen, bare headed, in mourning habit, the Lord <hi>Straf<g ref="char:EOLhyphen"/>ford</hi> following him clad in black cloath, with divers others, in the ſame habit, which were his attendance, then the Lord, Biſhop of <hi>Armach,</hi> and other good Divines; with the She<g ref="char:EOLhyphen"/>riffes of <hi>London,</hi> and divers honourable perſonages.</p>
+            <p>When hee came to the Scaffold, he there ſhewed himſelfe on each ſide in full view to all people and made this ſhort ſpeech, with as much alacrity of Spirit, as a mortall man could expreſſe, <hi>viz.</hi>
+            </p>
+            <p>Then turning himſelfe about, he ſaluted all the Noblemen, and tooke a ſolemne leave of all conſiderable perſons on the Scaffold giving them his hand.</p>
+            <p>And after that, he ſaid, Gentlemen, I would ſay my pray<g ref="char:EOLhyphen"/>ers, and I entreat you all to pray with me, and for me; then his Chaplaine laid the booke of Common prayer upon the chaire before him as hee kneeled down, on which he prayed almoſt a quarter of an houre, then he prayed as long or long<g ref="char:EOLhyphen"/>er without a booke, and ended with the Lords prayer; then ſtanding up hee ſpies his brother Sir <hi>George Wentworth,</hi> and
+<pb n="10" facs="tcp:176207:6"/>
+               <!-- PDF PAGE 78 -->calls him to him, and ſaith, brother we muſt part, remember me to my ſiſter, and to my wife, and carry my bleſſing to my eldeſt Son, and charge him from mee, that he fear God and continue an obedient Sonne of the Church of <hi>England,</hi> and that he ſhould approve himſelfe a faithfull ſubject to the King, and tell him that he ſhould not have any private grudge or revenge towards any concerning me, and bid him beware that he meddle not with Church livings, for that will prove a moath and canker to him in his eſtate, and wiſh him to con<g ref="char:EOLhyphen"/>tent himſelfe to be a ſervant to his Countrey, as a Juſtice of peace in his County, and not aiming at higher preferments; carry my bleſſing to my daughters, <hi>Anne</hi> and <hi>Arrabella,</hi> charge them to fear and ſerve God, and he will bleſſe them, not forgetting my little Infant that yet knowes neither good nor evill, and cannot ſpeak for it ſelfe, God ſpeak for it, and bleſſe it; then ſaid hee, now I have nigh done, one ſtroke will make my wife husbandleſſe, my deare children fatherleſſe, and my poore ſervants maſterleſſe, and ſeperat me from my deare brother and all my friends, but let God be to you and them, all in all.</p>
+            <p>After that, going to take off his dublet, and to make him<g ref="char:EOLhyphen"/>ſelfe readie, he ſaid <hi>I thank God I am no more afraid of death, nor daunted with any diſcouragements riſing from any fears, but do as chearfully put off my dublet at this time, as ever I did when I went to bed.</hi> Then he put off his dublet, and wound up his haire with his hands, and put on a white Cap.</p>
+            <p>Then he called, Where is the man that ſhould do this laſt office? (meaning the Executioner) call him to me. When he came and askt him forgiveneſſe, hee told him hee forgave him and all the world. Then kneeling down by the block, he went to prayer againe himſelf, the Biſhop of <hi>Armach</hi> knee<g ref="char:EOLhyphen"/>ling on the one ſide, and the Miniſter on the other; to the which Miniſter, after prayer, he turned himſelfe, and ſpoke
+<pb n="11" facs="tcp:176207:6"/>
+               <!-- PDF PAGE 78 -->ſome few words ſoftly, having his hands lifted up: this Mi<g ref="char:EOLhyphen"/>niſter cloſed his hands with his; then bowing himſelfe to the earth, to lay his head on the block, he told the Executioner, that hee would firſt lay down his head to try the fitneſſe of the block, and take it up againe before he would lay it down for good and all, and ſo he did: and before hee laid it downe againe, he told the Executioner that he would give him war<g ref="char:EOLhyphen"/>ning when to ſtrike, by ſtretching forth his hands; and then laid down his neck on the block, ſtretching out his hands the Executioner ſtruck off his head at one blow, then he tooke the head in his hand and ſhewed it unto all the people, and ſaid, <hi>God ſave the King.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
